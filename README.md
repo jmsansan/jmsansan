@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello 
 
-<!--
-**jmsansan/jmsansan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I'm Jose, a fullstack developer with more than 8 years of experience in React, Javascript, Express.js and Postgresql.
 
-Here are some ideas to get you started:
+I like to create things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# APPS
+
+## Minus: minimal launcher
+
+<img width="200" height="360" alt="image" src="https://github.com/user-attachments/assets/4ad4d256-ced8-46db-be87-ffc7b9ed7117" />
+
+
+Minus replaces the standard Android home screen with a clear clock and date, a short list of favorites, and an app drawer with a search function. There are no feeds, recommendations, badges, or flashy icons on the home screen.
+
+[Minus on the Android Store](https://play.google.com/store/apps/details?id=com.kanarsoft.minus)
