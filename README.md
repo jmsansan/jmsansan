@@ -8,9 +8,6 @@ I like to create things.
 
 ## Minus: minimal launcher
 
-<img width="200" height="360" alt="image" src="https://github.com/user-attachments/assets/4ad4d256-ced8-46db-be87-ffc7b9ed7117" />
-
-
 Minus replaces the standard Android home screen with a clear clock and date, a short list of favorites, and an app drawer with a search function. There are no feeds, recommendations, badges, or flashy icons on the home screen.
 
 [Minus on the Android Store](https://play.google.com/store/apps/details?id=com.kanarsoft.minus)
